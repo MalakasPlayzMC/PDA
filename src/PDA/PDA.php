@@ -9,6 +9,7 @@ use pocketmine\Player;
 use pocketmine\math\Vector3;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
+use pocketmine\nbt\tag\CompoundTag;
 use pocketmine\utils\TextFormat as T;
 
 use PDA\PDAEntity;
